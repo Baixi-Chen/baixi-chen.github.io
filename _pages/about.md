@@ -20,11 +20,11 @@ Research Interest
 Education Background
 =====
 
-* 2019.03-2022.05	**The University of Sydney, Sydney, Australia	Ph.D**
+* 2019.03-2022.05	**The University of Sydney, Sydney, Australia, Ph.D**
 	* School of Civil Engineering
 	* Supervisor: Prof. Luming Shen
 	* Thesis title: Gaussian process regression-based data-driven material models for stochastic structural analysis
-* 2014.09-2018.07	**South China University of Technology, Guangdong China	Bachelor**
+* 2014.09-2018.07	**South China University of Technology, Guangdong, China, Bachelor**
 	* School of Civil Engineering and Transportation
 	* Supervisor: Associate Prof. Yibo Yang
 	* Thesis title: Application of completely recycled fine aggregate in concrete.
