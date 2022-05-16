@@ -1,7 +1,7 @@
 ---
 title: "Heteroscedastic sparse Gaussian process regression-based stochastic material model for plastic structural analysis"
 collection: publications
-permalink: /publication/2022-02-22-paper3
+permalink: /publication/2022-02-22-paper-3
 excerpt: 'This paper is about the data driven plastic stochastic material model'
 date: 2022-02-22
 venue: 'Scientific Report'
@@ -12,6 +12,6 @@ citation: 'Chen, B., Shen, L., & Zhang, H. (2022). Heteroscedastic sparse Gaussi
 
 Describing the material flow stress and the associated uncertainty is essential for the plastic stochastic structural analysis. In this context, a data-driven approach-heteroscedastic sparse Gaussian process regression (HSGPR) with enhanced efficiency is introduced to model the material flow stress. Different from other machine learning approaches, e.g. artificial neural network (ANN), which only estimate the deterministic flow stress, the HSGPR model can capture the flow stress and its uncertainty simultaneously from the dataset. For validating the proposed model, the experimental data of the Al 6061 alloy is used here. Without setting a priori assumption on the mathematical expression, the proposed HSGPR-based flow stress model can produce a better prediction of the experimental stress data than the ANN model, the conventional GPR model, and Johnson Cook model at elevated temperatures. After the HSGPR-based flow stress model is implemented into finite element analysis, two numerical examples with synthetic material properties are performed to demonstrate the model’s capability in stochastic plastic structural analysis. The results have shown that with sufficient data, the distribution of the structural load carrying capacity at elevated temperatures and the variation of load–displacement curves during the loading and unloading processes can be accurately predicted by the HSGPR-based flow stress model.
 
-[Download paper here](http://academicpages.github.io/files/Heteroscedastic sparse Gaussian.pdf)
+[Download paper here](http://baixi-chen.github.io/files/Heteroscedastic sparse Gaussian.pdf)
 
 Recommended citation: Chen, B., Shen, L., & Zhang, H. (2022). Heteroscedastic sparse Gaussian process regression-based stochastic material model for plastic structural analysis. <i>Scientific reports</i>, 12(1), 1-19.
