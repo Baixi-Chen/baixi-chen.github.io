@@ -12,20 +12,21 @@ Hi, I am a Ph.D candidate at the University of Sydney, NSW in the Faculty of Eng
 
 Research Interest
 =====
-Mechanics of materials
-Stochastic structural analysis
-Construction materials
-Data-driven approach
+* Mechanics of materials
+* Stochastic structural analysis
+* Construction materials
+* Data-driven approach
 
 Education Background
 =====
-*2019.03-2022.05	The University of Sydney | Sydney, Australia	PhD
-	*School of Civil Engineering
-	*Supervisor: Prof. Luming Shen
-	*Thesis title: Gaussian process regression-based data-driven material models for stochastic structural analysis
-*2014.09-2018.07	South China University of Technology | Guangdong China	Bachelor
-	*School of Civil Engineering and Transportation
-	*Supervisor: Associate Prof. Yibo Yang
-	*Thesis title: Application of completely recycled fine aggregate in concrete.
+
+* 2019.03-2022.05	The University of Sydney | Sydney, Australia	PhD
+	* School of Civil Engineering
+	* Supervisor: Prof. Luming Shen
+	* Thesis title: Gaussian process regression-based data-driven material models for stochastic structural analysis
+* 2014.09-2018.07	South China University of Technology | Guangdong China	Bachelor
+	* School of Civil Engineering and Transportation
+	* Supervisor: Associate Prof. Yibo Yang
+	* Thesis title: Application of completely recycled fine aggregate in concrete.
 
 
