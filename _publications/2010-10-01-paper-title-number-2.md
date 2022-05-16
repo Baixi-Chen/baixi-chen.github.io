@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Gaussian process regression-based material model for stochastic structural analysis"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2021-5-26
+excerpt: 'This paper is about the data-driven stocastic elastic material model'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://doi.org/10.1061/AJRUA6.0001138'
+citation: 'Chen, B., Shen, L., & Zhang, H. (2021). Gaussian process regression-based material model for stochastic structural analysis. <i>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering</i>, 7(3), 04021025. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Abstract:**
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Data-driven material models can capture the constitutive relationship directly from the data without involving any material-dependent mathematical expressions. But most data-driven approaches, such as artificial neural networks, only estimate the deterministic relations and do not consider the material uncertainty. In this paper, the constitutive relation is taken as a stochastic function following the Gaussian process, where a probability-based nonparametric method, called Gaussian process regression (GPR), is used to capture the constitutive relation with the uncertainty being included. Both one-dimensional (1D) and two-dimensional (2D) material data are used to validate the GPR-based constitutive model (GPR model). The obtained GPR model shows higher accuracy than other data-driven approaches, particularly when the data set size is small. When compared with the assumed true model, the GPR-based model has an average relative error of <2.3%. Finally, with the help of the material uncertainty identified by the GPR-based model from the material data, a data-driven stochastic structural analysis procedure is developed. The relative errors of the expected deflection and probability of failure given by the GPR model are smaller than 2% and 3%, respectively.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/AJRUA6.0001138.pdf)
+
+Recommended citation: Chen, B., Shen, L., & Zhang, H. (2021). Gaussian process regression-based material model for stochastic structural analysis. <i>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering</i>, 7(3), 04021025. 1(2).
